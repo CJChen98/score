@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">score</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="scoreA">0</string>
+    <string name="scoreB">0</string>
+    <string name="button1">+1</string>
+    <string name="button2">+2</string>
+    <string name="button3">+3</string>
+    <string name="undo">undo</string>
+    <string name="loop">loop</string>
+    <string name="aKey" translatable="false">aTeam</string>
+    <string name="bKey" translatable="false">bTeam</string>
+    <string name="spfName" translatable="false">ScoreData</string>
+</resources>

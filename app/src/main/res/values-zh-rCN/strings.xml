@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记分板</string>
+    <string name="button1">+1</string>
+    <string name="button2">+2</string>
+    <string name="button3">+3</string>
+    <string name="loop">重置</string>
+    <string name="scoreA">0</string>
+    <string name="scoreB">0</string>
+    <string name="teamA">队伍A</string>
+    <string name="teamB">队伍B</string>
+    <string name="undo">撤销</string>
+</resources>
